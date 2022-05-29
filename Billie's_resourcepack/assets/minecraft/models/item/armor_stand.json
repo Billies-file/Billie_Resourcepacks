@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/armor_stand"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":60001}, "model": "minecraft:custom/haste"}
+,{"predicate": {"custom_model_data":60002}, "model": "minecraft:custom/jump_boost"}
+,{"predicate": {"custom_model_data":60003}, "model": "minecraft:custom/resistance"}
+,{"predicate": {"custom_model_data":60004}, "model": "minecraft:custom/speed"}
+,{"predicate": {"custom_model_data":60005}, "model": "minecraft:custom/strength"}
+,{"predicate": {"custom_model_data":60006}, "model": "minecraft:custom/creeper_voider"}
+,{"predicate": {"custom_model_data":60007}, "model": "minecraft:custom/monster_voider"}
+,{"predicate": {"custom_model_data":60008}, "model": "minecraft:custom/skelton_voider"}
+,{"predicate": {"custom_model_data":60009}, "model": "minecraft:custom/zombie_voider"}
+,{"predicate": {"custom_model_data":60010}, "model": "minecraft:custom/sapling_oak"}
+,{"predicate": {"custom_model_data":60011}, "model": "minecraft:custom/sapling_spruce"}
+,{"predicate": {"custom_model_data":60012}, "model": "minecraft:custom/sapling_birch"}
+,{"predicate": {"custom_model_data":60013}, "model": "minecraft:custom/sapling_jungle"}
+,{"predicate": {"custom_model_data":60014}, "model": "minecraft:custom/sapling_acacia"}
+,{"predicate": {"custom_model_data":60015}, "model": "minecraft:custom/sapling_dark_oak"}  ]
+}
